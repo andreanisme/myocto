@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://andreanisme.github.com/myocto/atom.xml" rel="self"/>
+  <link href="http://andreanisme.github.com/myocto/"/>
+  <updated>2013-03-28T13:00:08+07:00</updated>
+  <id>http://andreanisme.github.com/myocto/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[hello world]]></title>
+    <link href="http://andreanisme.github.com/myocto/blog/2013/03/28/hello-world/"/>
+    <updated>2013-03-28T12:00:00+07:00</updated>
+    <id>http://andreanisme.github.com/myocto/blog/2013/03/28/hello-world</id>
+    <content type="html"><![CDATA[<p>halo, ini adalah postingan pertama menggunakan Octopress. Sik, dab ta sinau maneh! :p</p>
+]]></content>
+  </entry>
+  
+</feed>
