@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: reguler | My Octopress Blog]]></title>
+  <title><![CDATA[Category: reguler | The Octo]]></title>
   <link href="http://andreanisme.github.com/myocto/blog/categories/reguler/atom.xml" rel="self"/>
   <link href="http://andreanisme.github.com/myocto/"/>
-  <updated>2013-03-28T13:00:08+07:00</updated>
+  <updated>2013-03-28T13:06:41+07:00</updated>
   <id>http://andreanisme.github.com/myocto/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
